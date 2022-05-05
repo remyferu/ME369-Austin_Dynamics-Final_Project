@@ -15,4 +15,8 @@ https://www.quora.com/How-do-you-make-a-Python-executable-in-Linux
 
 Rebuild the workspace (catkin_make)
 
+Place the world and launch files from the github into their respective folders 
+~/ME369P/final_project_wc/src/turtlebot3_simulations/turtlebot3_gazebo/worlds 
+~/ME369P/final_project_wc/src/turtlebot3_simulations/turtlebot3_gazebo/launch
+
 You are now ready to launch your gazebo world and run your model_mover.py node
