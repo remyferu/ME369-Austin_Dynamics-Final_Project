@@ -15,4 +15,4 @@ https://www.quora.com/How-do-you-make-a-Python-executable-in-Linux
 
 Rebuild the workspace (catkin_make)
 
-You are now ready to launch your gazebo world and model_mover.py file
+You are now ready to launch your gazebo world and run your model_mover.py node
