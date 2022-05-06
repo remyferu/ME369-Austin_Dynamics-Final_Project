@@ -1,4 +1,4 @@
-# ME369-Austin_Dynamics-Final_Project
+# ME369P-Austin_Dynamics-Final_Project
 
 #### Description:
 This final project uses rospy and a custom A* algorithm to navigate a turtlebot through a manhattan grid with randomly changing obstacles in gazebo. 
