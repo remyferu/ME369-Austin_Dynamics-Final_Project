@@ -6,15 +6,10 @@ This final project uses rospy and a custom A* algorithm to navigate a turtlebot 
 
 ####  SETUP/HOW TO: 
 
-1. please follow along with the instructions from the [lightning talk code follow along](https://docs.google.com/document/d/1zF7FCS2k8OG_VFYPCMd8QHJgtybkvfCLmpAyR_oQRPE/edit?usp=sharing) Before clicking the link please keep in mind the name of the catking workspace you are creating. Instead of creating a lightning_talk workspace, create a final_project_wc workspace
+1. please follow along with the instructions from the [lightning talk code follow along](https://docs.google.com/document/d/1zF7FCS2k8OG_VFYPCMd8QHJgtybkvfCLmpAyR_oQRPE/edit?usp=sharing). Before clicking the link please keep in mind the name of the catking workspace you are creating. Instead of creating a lightning_talk workspace, create a final_project_wc workspace
 
+2. Now create a package inside the workspace src folder for the model_mover.py file. Reference the [creating a package tutorial](http://wiki.ros.org/ROS/Tutorials/CreatingPackage) for help. 
 
-
-Now create a package inside the workspace src folder for the model_mover.py file. Reference the link below for help: 
-
-http://wiki.ros.org/ROS/Tutorials/CreatingPackage
-
--------------------------------------------------
 
 Tell linux that the model_mover.py is an executable: 
 
