@@ -16,10 +16,6 @@ This final project uses rospy and a custom A* algorithm to navigate a turtlebot 
 
 5. Move the world and launch files into their respective directories: `~/ME369P/final_project_wc/src/turtlebot3_simulations/turtlebot3_gazebo/worlds` and  `~/ME369P/final_project_wc/src/turtlebot3_simulations/turtlebot3_gazebo/launch`
 
--------------------------------------------------
+6. You are now ready to launch your gazebo world and run your model_mover.py node. Use `roslaunch turtlebot3_simulations turtlebot3_final_project.launch` in one shell and `rosrun final_project model_mover.py` in another. 
 
-You are now ready to launch your gazebo world and run your model_mover.py node
-
-roslaunch turtlebot3_simulations turtlebot3_final_project.launch
-
-rosrun final_project model_mover.py
+If there are issues finding `TURTLEBOT3_MODEL` or other errors ensure that you run `source devel/setup.bash` in your base directory, run `export TURTLEBOT3_MODEL=waffle_pi`, and run the ros setup.bash file. It is very helpfull to add these console commands to the .bashrc file to avoid any tediously repetative tasks. 
