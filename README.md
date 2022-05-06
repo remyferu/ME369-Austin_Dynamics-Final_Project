@@ -1,8 +1,7 @@
 # ME369-Austin_Dynamics-Final_Project
----
 
 ### Description:
-
+This final project uses rospy and a custom A* algorithim to nagigate a turtlebot through a dynamic environemnt in gazebo. 
 
 
 ###  SETUP/HOW TO: 
