@@ -10,14 +10,9 @@ This final project uses rospy and a custom A* algorithm to navigate a turtlebot 
 
 2. Now create a package inside the workspace src folder for the model_mover.py file. Reference the [creating a package tutorial](http://wiki.ros.org/ROS/Tutorials/CreatingPackage) for help. 
 
+3. Set the 'model_mover.py' files as an executable using 'chmod +x file_path'. 
 
-Tell linux that the model_mover.py is an executable: 
-
-https://www.quora.com/How-do-you-make-a-Python-executable-in-Linux
-
--------------------------------------------------
-
-Rebuild the workspace (catkin_make)
+4. Rebuild the workspace by using 'catkin_make' in your base workspace directory. 
 
 -------------------------------------------------
 
